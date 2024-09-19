@@ -1,0 +1,4 @@
+# ::snt t_56767bf8-ad40-469b-b934-65bea519f11c</CONV>I saw that Bryce Harper is inline to make a ton of money, almost getting close to Alex Rodriguez.
+(z1 / see-01
+      :ARG0 (z2 / i)
+      :ARG1 (z3 / and\n            :op1 (z4 / inline\n                  :domain (z5 / person\n                        :name (z6 / name\n                              :op1 "Bryce"\n                              :op2 "Harper"))\n                  :purpose (z7 / make-05\n                        :ARG0 z5\n                        :ARG1 (z8 / money\n                              :quant (z9 / ton))))\n            :op2 (z10 / close-06\n                  :ARG1 z5\n                  :ARG2 (z11 / person\n                        :name (z12 / name\n                              :op1 "Alex"\n                              :op2 "Rodriguez"))\n                  :mod (z13 / almost))))\n

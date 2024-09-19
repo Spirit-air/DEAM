@@ -1,0 +1,4156 @@
+no manipulations 
+contradiction
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+contradiction
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+contradiction
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+contradiction
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+contradiction
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+contradiction
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+contradiction
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+contradiction
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+contradiction
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+contradiction
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+contradiction
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+contradiction
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+contradiction
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+contradiction
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+contradiction
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+contradiction
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+contradiction
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+contradiction
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+contradiction
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+contradiction
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+contradiction
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency,decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency
+no manipulations 
+contradiction
+no manipulations 
+decrease_engagement,coreference_incosistency,contradiction
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+contradiction,decrease_engagement
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement,coreference_incosistency
+no manipulations 
+coreference_incosistency,decrease_engagement,contradiction
+no manipulations 
+contradiction,coreference_incosistency,decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+contradiction
+no manipulations 
+coreference_incosistency,contradiction,decrease_engagement
+no manipulations 
+decrease_engagement,contradiction,coreference_incosistency
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+decrease_engagement
+no manipulations 
+decrease_engagement
+no manipulations 
+coreference_incosistency,contradiction
+no manipulations 
+contradiction,coreference_incosistency
+no manipulations 
+decrease_engagement,contradiction
